@@ -1,0 +1,14 @@
+# Compiled output
+/target/
+
+# Cargo package files
+**/*.rs.bk
+**/*.rs.bk2
+
+# Debugging files
+*.log
+
+# IDE settings
+.idea/
+*.iml
+.vscode/
